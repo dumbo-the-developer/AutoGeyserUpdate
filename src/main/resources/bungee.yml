@@ -1,0 +1,4 @@
+name: AutoGeyserUpdate
+version: '${project.version}'
+main: in.godspunky.autogeyserupdate.AutoUpdate
+author: [DUMBO]
